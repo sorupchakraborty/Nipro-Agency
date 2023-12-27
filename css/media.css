@@ -1,0 +1,821 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {
+
+     /* header start */
+     .c-nav {
+         padding: 15px 0;
+     }
+
+     .c-nav img {
+         width: 185px;
+     }
+
+     .menu li a {
+         padding: 10px 0 0 0;
+     }
+
+     .c-dr-menu[data-bs-popper] {
+         left: 0;
+     }
+
+     /* header end */
+
+     /* banner start */
+     .banner {
+         text-align: center;
+     }
+
+     .slider-content {
+         margin: 80px 0;
+     }
+
+     .slider-content h2 {
+         font-size: 35px;
+     }
+
+     .slider-content p {
+         padding: 30px 0 35px 0;
+     }
+
+     /* banner end */
+
+     /* welcome start */
+     .vertical-line {
+         height: 40px;
+     }
+
+     .c-title h1 {
+         font-size: 25px;
+         padding: 30px 0
+     }
+
+     .c-text p {
+         padding-bottom: 70px;
+     }
+
+     /* welcome end */
+
+     /* card start */
+     .nipro-card {
+         margin-bottom: 50px;
+     }
+
+     .n-card {
+         margin-top: 30px;
+     }
+
+     .n-card i {
+         top: -22px;
+         left: 110px;
+     }
+
+     /* card end */
+     /* about start */
+     .about {
+         text-align: center;
+         padding-bottom: 80px;
+     }
+
+     .a-img img {
+         padding: 0 0 30px;
+     }
+
+     .p1 {
+         padding: 30px 0 15px;
+     }
+
+     /* about end */
+     /* recent start */
+     .recent {
+         padding-bottom: 40px;
+     }
+
+     /* recent end */
+     /* croose start */
+     .choose {
+         text-align: center;
+         padding-bottom: 40px;
+     }
+
+     .sigle-c i {
+         font-size: 45px;
+     }
+
+     .sigle-c h5 {
+         font-size: 16px;
+     }
+
+     /* croose end  */
+     /* work start */
+     .c-title h1 {
+         padding: 30px 0 43px;
+         font-size: 28px;
+     }
+
+     .custom_card {
+         margin-right: 5px;
+     }
+
+     .social_link ul {
+         bottom: 160px;
+     }
+
+     .custom-w {
+         padding-bottom: 60px;
+     }
+
+     /* work end */
+     /* pricing start*/
+     .pricing {
+         padding-bottom: 60px;
+     }
+
+     /* pricing end */
+     /* responsive start */
+     .responsive {
+         margin-bottom: 0;
+         padding: 20px 0 50px 0;
+         text-align: center;
+     }
+
+     .t_link {
+         margin-top: 20px;
+         text-align: center !important;
+     }
+
+     /* responsive end */
+
+     /* deviserweb start */
+     .deviserweb {
+         padding: 15px 0px 0;
+     }
+
+     .csi_custom {
+         font-size: 16px;
+         padding: 1px 20px;
+     }
+
+     .d_conatant {
+         text-align: center;
+         padding: 175px 0 10px 0;
+     }
+
+     .carousel_button {
+         margin-bottom: 20px;
+         text-align: center;
+         margin-top: 8px;
+         padding: 8px 2px;
+         writing-mode: horizontal-tb;
+     }
+
+     .btn_next {
+         margin: 0 0 0 12px;
+     }
+
+     .btn_prev {
+         margin-bottom: 0;
+     }
+
+     /* deviserweb end */
+
+     /* contact start */
+     .contact {
+         margin-bottom: 70px;
+     }
+
+     .form_boder {
+         padding: 100px 20px 30px;
+     }
+
+     .contant_title h2 {
+         font-size: 20px;
+         top: -12px;
+         left: 77px;
+     }
+
+     /* contact end */
+     /* footer */
+     .footer-top {
+         padding-bottom: 10px;
+     }
+
+     .ft-top-text {
+         padding: 30px 10px;
+     }
+
+     .footer-bottom {
+         text-align: center;
+     }
+
+     .footer-bottom-text {
+         padding: 20px 0;
+     }
+
+     .footer-bottom-text ul {
+         text-align: center;
+         margin-top: 15px;
+     }
+
+     .footer-bottom-text p {
+         padding: 10px 10px 10px 10px;
+         text-align: center;
+     }
+
+     .footer-bottom-text ul li a {
+         font-size: 15px;
+         padding-right: 2px;
+     }
+ }
+
+ /* Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) and (max-width: 767.98px) {
+
+     /* header styles */
+     .c-nav {
+         padding: 15px 0;
+     }
+
+     .c-nav img {
+         width: 200px;
+     }
+
+     .menu li a {
+         padding: 10px 0 0 0;
+     }
+
+     .c-dr-menu[data-bs-popper] {
+         left: 0;
+     }
+
+     /* header end */
+     /* banner start */
+     .banner {
+         text-align: center;
+     }
+
+     .slider-content {
+         margin: 100px 0;
+     }
+
+     .slider-content h2 {
+         font-size: 45px;
+     }
+
+     .slider-content p {
+         padding: 35px 0 40px 0;
+     }
+
+     /* banner end */
+     /* welcome start */
+     .vertical-line {
+         height: 40px;
+     }
+
+     .c-title h1 {
+         padding: 30px 0
+     }
+
+     .c-text p {
+         padding-bottom: 70px;
+     }
+
+     /* welcome end */
+     /* card start */
+     .nipro-card {
+         margin-bottom: 50px;
+     }
+
+     .n-card {
+         margin-top: 30px;
+         padding: 70px 0 40px;
+     }
+
+     .n-card i {
+         top: -22px;
+         left: 85px;
+     }
+
+     /* card end */
+     /* about start */
+     .about {
+         text-align: center;
+         padding-bottom: 80px;
+     }
+
+     .a-img img {
+         padding: 0 0 30px;
+     }
+
+     /* about end */
+     /* recent start */
+     .recent {
+         padding-bottom: 60px;
+     }
+
+     /* recent end */
+     /* croose start */
+     .choose {
+         padding-bottom: 50px;
+     }
+
+     .sigle-c i {
+         font-size: 45px;
+     }
+
+     .sigle-c h5 {
+         font-size: 16px;
+     }
+
+     /* croose end */
+     /* work start */
+     .c-title h1 {
+         padding: 30px 0 43px;
+         font-size: 28px;
+     }
+
+     .custom-w {
+         padding-bottom: 60px;
+     }
+
+     .custom_card {
+         margin-right: 5px;
+     }
+
+     .social_link ul a i {
+         font-size: 20px;
+     }
+
+     /* work end */
+     /* pricing start*/
+     .pricing {
+         padding-bottom: 60px;
+     }
+
+     /* pricing end */
+     /* responsive start */
+     .responsive {
+         margin-bottom: 70px;
+     }
+
+     .rpv-text h5 {
+         font-size: 16px;
+     }
+
+     .btn-c {
+         padding: 10px 35px;
+     }
+
+     /* responsive end */
+     /* deviserweb start */
+     .deviserweb {
+         padding: 35px 20px 0;
+     }
+
+     .csi_custom {
+         font-size: 16px;
+         padding: 5px 30px;
+     }
+
+     .d_conatant {
+         text-align: center;
+         padding: 375px 0 10px 0;
+     }
+
+     .carousel_button {
+         margin-bottom: 40px;
+         text-align: center;
+         margin-top: 8px;
+         padding: 8px 2px;
+         writing-mode: horizontal-tb;
+     }
+
+     .btn_next {
+         margin: 0 0 0 12px;
+     }
+
+     .btn_prev {
+         margin-bottom: 0;
+     }
+
+     /* deviserweb end */
+     /* contact start */
+     .contact {
+         margin-bottom: 70px;
+     }
+
+     .form_boder {
+         padding: 100px 50px 30px;
+     }
+
+     .contant_title h2 {
+         left: 170px;
+     }
+
+     /* contact end */
+     /* footer */
+     .footer-top {
+         padding-bottom: 50px;
+     }
+
+     .ft-top-text {
+         padding: 30px 80px;
+     }
+
+     .footer-bottom {
+         text-align: center;
+     }
+
+     .footer-bottom-text {
+         padding: 30px 0;
+     }
+
+     .footer-bottom-text ul {
+         text-align: center;
+         margin-top: 20px;
+     }
+
+     .footer-bottom-text p {
+         padding-right: 0px;
+         text-align: center;
+     }
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+ @media (min-width: 768px) and (max-width: 991.98px) {
+
+     /* header start */
+     .c-nav {
+         padding: 20px 0;
+     }
+
+     .menu li a {
+         padding: 10px 0 0 0;
+     }
+
+     .c-dr-menu[data-bs-popper] {
+         left: 0;
+     }
+
+     /* header end */
+     /* banner start */
+     .banner {
+         text-align: center;
+     }
+
+     .slider-content {
+         margin: 150px 0;
+     }
+
+     .slider-content h2 {
+         font-size: 55px;
+     }
+
+     .slider-content p {
+         padding: 45px 20px 50px 0;
+     }
+
+     /* banner end */
+     /* welcome start */
+     .c-text p {
+         padding-bottom: 80px;
+     }
+
+     /* welcome end */
+     /* card start */
+     .nipro-card {
+         margin-bottom: 80px;
+     }
+
+     .n-card {
+         margin-top: 40px;
+         padding: 70px 0 40px;
+     }
+
+     .n-card i {
+         top: -22px;
+         left: 125px;
+     }
+
+     /* card end */
+     /* about start */
+     .about {
+         text-align: center;
+         padding-bottom: 80px;
+     }
+
+     .a-img img {
+         padding: 0 50px 30px;
+     }
+
+     /* about end */
+     /* recent start */
+     .recent {
+         padding-bottom: 60px;
+     }
+
+     /* recent end */
+     /* croose start */
+     .choose {
+         padding-bottom: 50px;
+     }
+
+     /* croose end  */
+     /* work start */
+     .c-title h1 {
+         padding: 30px 0 43px;
+         font-size: 28px;
+     }
+
+     .custom-w {
+         padding-bottom: 70px;
+     }
+
+     .custom_card {
+         margin-right: 5px;
+     }
+
+     .social_link ul {
+         bottom: 170px;
+     }
+
+     .social_link ul a i {
+         font-size: 30px;
+     }
+
+     /* work end */
+     /* pricing start */
+     .pricing_card {
+         margin-top: 30px;
+     }
+
+     /* pricing end */
+     /* pricing start*/
+     .pricing {
+         padding-bottom: 70px;
+     }
+
+     /* pricing end */
+     /* responsive start */
+     .responsive {
+         margin-bottom: 80px;
+     }
+
+     .btn-c {
+         padding: 13px 25px;
+     }
+
+     /* responsive end */
+     /* deviserweb start */
+     .deviserweb {
+         padding: 35px 20px 0;
+     }
+
+     .question_m {
+         top: 50px;
+         left: 30px;
+     }
+
+     .csi_custom {
+         font-size: 16px;
+         padding: 10px 30px;
+     }
+
+     .d_conatant {
+         text-align: center;
+         padding: 560px 0 10px 0;
+     }
+
+     .carousel_button {
+         margin-bottom: 20px;
+         text-align: center;
+         margin-top: 8px;
+         padding: 8px 2px;
+         writing-mode: horizontal-tb;
+     }
+
+     .btn_next {
+         margin: 0 0 0 12px;
+     }
+
+     .btn_prev {
+         margin-bottom: 0;
+     }
+
+     /* deviserweb end */
+     /* contact start */
+     .contact {
+         margin-bottom: 70px;
+     }
+
+     .form_boder {
+         padding: 100px 50px 30px;
+     }
+
+     .contant_title h2 {
+         left: 255px;
+     }
+
+     /* contact end */
+     /* footer */
+     .footer_top {
+         padding-bottom: 60px;
+     }
+
+     .ft_text p {
+         padding: 40px 210px;
+     }
+
+     .footer-bottom hr {
+         text-align: center;
+     }
+
+     .footer-bottom-text ul {
+         text-align: center;
+         margin-top: 20px;
+     }
+
+     .footer_top {
+         padding-bottom: 80px;
+     }
+
+     .footer-bottom-text p {
+         text-align: center;
+     }
+ }
+
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+
+     /* banner start */
+     .slider-content h2 {
+         font-size: 55px;
+     }
+
+     .slider-content p {
+         padding: 50px 0 55px 0;
+     }
+
+     /* banner end */
+     /* card start */
+     .n-card i {
+         left: 70px;
+     }
+
+     /* card end */
+     /* about start */
+     .p1 {
+         padding: 10px 0 5px;
+     }
+
+     .p2 {
+         padding-bottom: 10px;
+     }
+
+     .btn-a-lorem {
+         padding: 5px 10px;
+     }
+
+     /* about end */
+     /* recent start */
+     .recent {
+         padding-bottom: 70px;
+     }
+
+     /* recent end */
+     /* croose start */
+     .choose {
+         padding-bottom: 70px;
+     }
+
+     /* croose end */
+     /* work start */
+     .c-title h1 {
+         padding: 30px 0 43px;
+         font-size: 28px;
+     }
+
+     .custom-w {
+         padding-bottom: 80px;
+     }
+
+     .custom_card {
+         margin-right: 5px;
+     }
+
+     .work_text h2 {
+         font-size: 16px;
+     }
+
+     .social_link ul li:hover i {
+         color: #333;
+     }
+
+     .social_link ul {
+         bottom: 118px;
+     }
+
+     .social_link ul a i {
+         font-size: 20px;
+     }
+
+     /* work end */
+     /* pricing start*/
+     .pricing {
+         padding-bottom: 80px;
+     }
+
+     /* pricing end */
+     /* deviserweb start */
+     .csi_custom {
+         padding: 10px 19px 63px 20px;
+     }
+
+     .d_img {
+         position: absolute;
+         top: 25px;
+         max-height: 100px;
+     }
+
+     .question_m {
+         top: 17px;
+         left: 15px;
+     }
+
+     .d_conatant {
+         padding-left: 80px;
+     }
+
+     .d_h3 {
+         font-family: 'Lato', sans-serif;
+         font-size: 16px;
+         font-weight: 700;
+         color: #333333;
+         text-transform: uppercase;
+     }
+
+     .d_p1 {
+         font-size: 16px;
+     }
+
+     .d_h4 {
+         font-size: 16px;
+         font-weight: 400;
+         padding: 0;
+         color: #333333;
+     }
+
+     /* deviserweb end */
+     /* contact start */
+     .contact {
+         margin-bottom: 80px;
+     }
+
+     .form_boder {
+         padding: 100px 100px 30px;
+     }
+
+     .contant_title h2 {
+         left: 370px;
+     }
+
+     /* contact end */
+ }
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {
+
+     /* contact start */
+     .form_boder {
+         padding: 100px 120px 30px;
+     }
+
+     .contant_title h2 {
+         left: 460px;
+     }
+
+     /* contact end */
+ }
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+ @media (min-width: 1400px) {
+
+     /* about star */
+     .p1 {
+         padding: 60px 0;
+     }
+
+     /* about end */
+     /* contact start */
+     .contant_title h2 {
+         left: 565px;
+     }
+
+     /* contact end */
+     /* deviserweb start */
+     .c_single {
+         padding: 1px 0 25px;
+     }
+
+     /* deviserweb end*/
+
+ }
